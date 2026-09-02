@@ -159,7 +159,7 @@
       </p>
       <div class="flex justify-center space-x-4 mb-6">
         <a
-          href="https://github.com/hyoox"
+          href="https://github.com/skliris"
           target="_blank"
           class="text-teal-400 hover:text-teal-300 transition-colors"
         >
