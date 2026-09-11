@@ -79,7 +79,7 @@
 
   function init() {
     const particleCount = Math.floor(
-      (windowSize.width * windowSize.height) / 10000
+      (windowSize.width * windowSize.height) / 10000,
     );
     particles = [];
     for (let i = 0; i < particleCount; i++) {
