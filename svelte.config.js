@@ -15,7 +15,6 @@ const config = {
     }),
     paths: {
       base: "/portfolio",
-      assets: "/portfolio",
     },
   },
 };
